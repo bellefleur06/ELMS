@@ -1,0 +1,34 @@
+**Employee Leave Management System (BETA Version)**
+
+**Developed by tapps**
+
+Database Name: elms
+
+Index Page: http://localhost/Employee-Leave-Management-System/index.php
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Staff Login Details**
+
+Username: staff
+Password: staff
+
+**Employee Login Details**
+
+Username: tapps
+Password: tapps
+
+Username: john
+Password: doe
+
+**Features You Can Add**
+
+Reports
+Forgot/Reset Password
+Request for Activating Disabled Account
+
+**If you want to see how the crud functionalities work just open the actions.php file inside the includes folder**
+ 
